@@ -1,7 +1,7 @@
 # Blog 
 
 liste des taches :
-- creer une page d'accueil 
-- choisir un theme 
-- systeme d'authentification
-- déploiment sur github pages
+- [x] creer une page d'accueil 
+- [x] déploiment sur github pages
+- [-] choisir un theme et l'appliquer
+(- systeme d'authentification)
